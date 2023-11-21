@@ -1,1 +1,3 @@
-# chatbot_v1
+# Quick start
+### npm install
+### npm run start
